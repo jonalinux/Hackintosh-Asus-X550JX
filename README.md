@@ -1,12 +1,12 @@
-# macOS-on-ASUS-X550JX-(Big Sur 11.6.3)
+# macOS-on-ASUS-X550JX-(Big Sur 11.6.4)
 
-# Monterey 12.0.1
-(5 Feb 2022) For macOS Monterey 12.0.1 Disable HS80211Family.kext and Ath3BT.kext in config.plist because Don't Work - KP (Kernel Panic on Boot)
+# Monterey 12.3
+(6 Apr 2022) For macOS Monterey 12.3 Disable HS80211Family.kext and Ath3BT.kext in config.plist because Don't Work - KP (Kernel Panic on Boot)
 
-# Big Sur 11.6.3
+# Big Sur 11.6.4
 info:
 
-1. OS:                             macOS Big Sur Version 11.6.3 (Build 20G415)
+1. OS:                             macOS Big Sur Version 11.6.4 
 2. Model Identifier:               MacBookPro11,5 - Year 2015
 3. CPU:                            Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz
 4. Intel Generation:               Haswell
