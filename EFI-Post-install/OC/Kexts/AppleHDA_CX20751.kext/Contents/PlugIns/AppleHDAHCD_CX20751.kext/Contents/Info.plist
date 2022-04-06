@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>AppleHDAHardwareConfigDriver 9280.12, Copyright © 2000-2017 Apple Inc. All rights reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.the-braveknight.AppleHDAHCDInjector</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>AppleHDAHCDInjector</string>
+	<key>CFBundlePackageType</key>
+	<string>KEXT</string>
+	<key>CFBundleShortVersionString</key>
+	<string>9280.12</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>9280.12</string>
+	<key>IOKitPersonalities</key>
+	<dict>
+		<key>HDA Hardware Config Resource</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleHDAHardwareConfigDriver</string>
+			<key>HDAConfigDefault</key>
+			<array>
+				<dict>
+					<key>#AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>the-braveknight - Conexant CX20751/2</string>
+					<key>CodecID</key>
+					<integer>351359247</integer>
+					<key>ConfigData</key>
+					<data>
+					AWccQAFnHRABZx4hAWcfBAF3HBABdx0BAXce
+					FwF3H5ABlxwwAZcdEAGXHoEBlx8EAaccIAGn
+					HQEBpx6gAacfkA==
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>3</integer>
+				</dict>
+			</array>
+			<key>IOClass</key>
+			<string>AppleHDAHardwareConfigDriver</string>
+			<key>IOMatchCategory</key>
+			<string>AppleHDAHardwareConfigDriver</string>
+			<key>IOProbeScore</key>
+			<integer>2000</integer>
+			<key>IOProviderClass</key>
+			<string>AppleHDAHardwareConfigDriverLoader</string>
+		</dict>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>AppleHDAHardwareConfigDriver 9280.12, Copyright © 2000-2017 Apple Inc. All rights reserved.</string>
+</dict>
+</plist>
