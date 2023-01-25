@@ -1,5 +1,8 @@
 # macOS-on-ASUS-X550JX-(Big Sur 11.6.4)
 
+# Ventura 13.1
+(25 gen 2023) For macOS Ventura 13.1 Disable HS80211Family.kext and Ath3BT.kext in config.plist because Don't Work - KP (Kernel Panic on Boot)
+
 # Monterey 12.3.1
 (6 Apr 2022) For macOS Monterey 12.3.1 Disable HS80211Family.kext and Ath3BT.kext in config.plist because Don't Work - KP (Kernel Panic on Boot)
 
